@@ -583,12 +583,12 @@ button {
 
 .section-container {
     width: min(1180px, 92%);
-
     margin: auto;
 }
 
 .section-label {
       color: black;
+         color: black;
 
     font-size: 12px;
 
